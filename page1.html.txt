@@ -1,5 +1,5 @@
 <html>
 <body>
-Linia dodana przez Imię/Nazwisko/Login
+Linia dodana przez Pawel
 </body>
 </html>
